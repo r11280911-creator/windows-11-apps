@@ -1,0 +1,123 @@
+! ---------------------------------------------------
+! Windows 11 Light by niivu
+! qwilk_AT_xoblite_DOT_net
+! http://xoblite.net/
+! March 15th, 2021
+! ---------------------------------------------------
+
+style.name:		Windows 11 Light
+style.author:		niivu
+style.date:		June 2021
+style.credits:		default style #1 -> xoblite bb5 RC4
+style.comments:		http://xoblite.net/
+
+! --------------------------------------------------
+
+toolbar.appearance: Flat Gradient Vertical
+toolbar.color1: #FFFFFF
+toolbar.color2: #FFFFFF
+toolbar.font: Segoe UI/7/Normal
+toolbar.alignment: Center
+toolbar.textColor: #000000
+toolbar.marginWidth: 0
+toolbar.borderWidth: 1
+toolbar.borderColor: #FFFFFF
+
+toolbar.label.appearance: ParentRelative
+toolbar.label.font: Blank/1/Normal
+toolbar.label.alignment: left
+toolbar.label.textColor: #000000
+toolbar.label.marginWidth: 0
+
+toolbar.windowLabel.appearance: Flat Gradient Vertical
+toolbar.windowLabel.color1: #F9F9F9
+toolbar.windowLabel.color2: #F9F9F9
+toolbar.windowLabel.font: Segoe UI/7/Normal
+toolbar.windowLabel.alignment: Center
+toolbar.windowLabel.textColor: #000000
+toolbar.windowLabel.marginWidth: 2
+toolbar.windowLabel.borderWidth: 1
+toolbar.windowLabel.borderColor: #F9F9F9
+
+toolbar.clock.appearance: ParentRelative
+toolbar.clock.font: Segoe UI/7/Normal
+toolbar.clock.alignment: Center
+toolbar.clock.textColor: #000000
+toolbar.clock.marginWidth: 1
+
+toolbar.button.appearance: ParentRelative
+toolbar.button.picColor: #FFFFFF
+toolbar.button.marginWidth: 0
+
+toolbar.button.pressed.appearance: Flat Solid
+toolbar.button.pressed.color: #F9F9F9
+toolbar.button.pressed.picColor: #F9F9F9
+toolbar.button.pressed.marginWidth: 0
+toolbar.button.pressed.borderWidth: 0
+
+! --------------------------------------------------
+
+menu.title.appearance: Flat Solid
+menu.title.color1: #F9F9F9
+menu.title.font: Blank/1/Normal
+menu.title.alignment: Left
+menu.title.textColor: #F9F9F9
+menu.title.shadowColor: #F9F9F9
+menu.title.marginWidth: 1
+menu.title.borderWidth: 1
+
+menu.frame.appearance: Flat Gradient Vertical
+menu.frame.color1: #F9F9F9
+menu.frame.color2: #F9F9F9
+menu.frame.font: Segoe UI/7/Normal
+menu.frame.alignment: Left
+menu.frame.textColor: #000000
+menu.frame.disabledColor: #808080
+menu.frame.bulletColor: #000000
+menu.frame.marginWidth: 4
+menu.frame.borderWidth: 1
+menu.frame.borderColor: #F2F2F2
+
+menu.active.appearance:  Flat Gradient Vertical
+menu.active.color1: #FFFFFF
+menu.active.color2: #FFFFFF
+menu.active.textColor: #000000
+menu.active.bulletColor: #000000
+menu.active.marginWidth: 5
+menu.active.borderWidth: 2
+menu.active.borderColor: #FFFFFF
+
+menu.grip.appearance: Flat Solid
+menu.grip.color: #F9F9F9
+menu.grip.font: Blank/1/Normal
+menu.grip.alignment: Left
+menu.grip.textColor: #F9F9F9
+menu.grip.marginWidth: 0
+menu.grip.borderWidth: 0
+
+menu.indicator.appearance: Flat Solid
+menu.indicator.color: #919191
+menu.indicator.marginWidth: 2
+menu.indicator.borderWidth: 2
+
+menu.separator.appearance: Flat Solid
+menu.separator.color: #F9F9F9
+
+menu.bullet: Triangle
+menu.bullet.position: Right
+
+! --------------------------------------------------
+
+dock.appearance: Flat Solid
+dock.color: #000000
+dock.marginWidth: 2
+dock.borderWidth: 0
+
+! --------------------------------------------------
+
+console.color: #000000
+console.textColor: #000000
+console.buttonColor: #000000
+console.font: Segoe UI/9/Normal
+
+! --------------------------------------------------
